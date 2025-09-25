@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Rohit Mewara</h1>
 <h3 align="center">A Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Twitter Clone**
+- 🔭 I’m currently working on **Digital Love**
 
 - 📫 How to reach me **rohitmewara266@gmail.com**
 
